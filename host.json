@@ -2,11 +2,12 @@
   "format": "zesia.host-adapter.v1",
   "id": "gemini-cli",
   "requester": "Gemini CLI",
-  "version": "0.3.2",
-  "runtimeVersion": "0.4.3",
+  "version": "0.3.5",
+  "runtimeVersion": "0.4.7",
   "skillDirectory": ".gemini/skills",
   "entry": "skill-and-standalone-a2a",
   "nativeUI": false,
   "documentation": "https://geminicli.com/docs/cli/skills/",
-  "reviewSurface": "online-loopback"
+  "reviewSurface": "online-loopback",
+  "userSkillDirectory": ".gemini/skills"
 }
